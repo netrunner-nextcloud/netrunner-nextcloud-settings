@@ -1,12 +1,12 @@
-Source: c1-netrunner-core-settings
+Source: c1-netrunner-nextcloud-settings
 Section: unknown
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
-Homepage: https://github.com/netrunner-odroid/c1-netrunner-core-settings
+Homepage: https://github.com/netrunner-odroid/c1-netrunner-nextcloud-settings
 
-Package: c1-netrunner-core-settings
+Package: c1-netrunner-nextcloud-settings
 Architecture: armhf
 Depends: netrunner-default-settings, novnc, ${misc:Depends}
 Description: netrunner-core edition settings for ODROID-C1
